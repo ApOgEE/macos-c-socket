@@ -6,4 +6,19 @@ This is basically an exercise/example for me to remember the code I wrote.
 
 Today, I would like to try doing the code again. But this time I will write the code to compile and run on MacOS Mojave.
 
+### Compiling
+
+To compile the code, simply type:
+```
+make clean all
+```
+
+### Running The Program
+
+```
+./socklient [DOMAIN] [PAGE]
+```
+
 ![screen](doc/screenshot.png)
+
+OK, That's all for now... Enjoy!
